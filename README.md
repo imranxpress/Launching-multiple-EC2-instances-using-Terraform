@@ -1,6 +1,7 @@
 # Launching-multiple-EC2-instances-using-Terraform
-How to launch multiple EC2 instances in one go using Simple and Easy Terraform Code.
-Overview:
+How to launch multiple EC2 instances in one go using Simple and Easy Terraform Code and VS code. 
+
+## Overview:
 
 Infrastructure as Code tools like Terraform can be used to Build, change, and destroy AWS infrastructure, especially when dealing with multiple resources in a complex cloud infrastructure.
 
